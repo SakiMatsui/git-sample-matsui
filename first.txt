@@ -3,3 +3,4 @@ git rensyu
 
 main branch
 branchの練習
+リモートと繋げた上で、mainにてfirst.txtを編集
